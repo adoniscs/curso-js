@@ -1,7 +1,7 @@
 // qual o resultado da seguinte expressão
 var total = 10 + (5 * 2) / 2 + 20;
-var resultado = 25;
-
+var resultado = 35;
+console.log(total);
 // crie duas expressões que retornem NaN
 expressao1 = "olamundo" / 20;
 expressao2 = "olamundo" * 2;
